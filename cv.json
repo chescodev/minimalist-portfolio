@@ -125,6 +125,20 @@
         ]
       },
       {
+        "name": "C#",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": ".NET Framework",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
         "name": "Java",
         "level": "Avanzado",
         "keywords": [
@@ -146,7 +160,28 @@
         ]
       },
       {
+        "name": "Kotlin",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Swift",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
         "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "MongoDB",
         "level": "Avanzado",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -213,64 +248,54 @@
       {
         "name": "Sistema de Ventas",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Sistema de control de ventas, ingresos, salidas, inventario y reportes de productos.",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "C#", ".Net Framework", "SQL Server"
         ],
-        "url": "https://mars.codes"
+        "url": ""
       },
       {
         "name": "Ecommerce",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Tienda en linea de zapatillas",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
+          "Node",
+          "Astro",
           "JavaScript & TypeScript"
         ],
-        "url": "https://advent.js/dev"
+        "url": ""
       },
       {
-        "name": "App Mobil de Notas",
+        "name": "App Móvil de Notas",
         "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "description": "Aplicación móvil para registrar notas.",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "Kotlin",
+          "SQLite"
         ],
-        "url": "https://codember.dev"
+        "url": ""
       },
       {
-        "name": "codi.link",
+        "name": "Note App",
         "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "description": "Apliación web para registrar notas",
         "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
+          "Java & Spring Boot",
+          "React","MySQL"
         ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
+        "url": "",
+        "github": ""
       },
       {
-        "name": "Pruebas Técnicas",
+        "name": "Microservicios",
         "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
+        "description": "Microservicios con un CRUD de venta de Bicicletas",
         "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
+          "Java & SpringBoot",
+          "MYSQL", "Docker"
         ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": "",
+        "github": ""
       }
     ]
   }
