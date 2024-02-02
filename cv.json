@@ -6,7 +6,7 @@
       "email": "franchesco1510@gmail.com",
       "phone": "+51 936899419",
       "url": "",
-      "summary": "Estudiante de Computación e Informática",
+      "summary": "Estudiante de Computación e Informática. Destaco por mi empeño en aprender, facilidad para comprender conceptos difíciles, dinamismo y capacidad para trabajar y liderar grupos. Busco crecer profesionalmente y contribuir al desarrollo tecnológico de la organización en la que me encuentre.",
       "location": {
         "address": "",
         "postalCode": "15084",
@@ -41,28 +41,8 @@
         "endDate": "2022-08-31",
         "summary": "Responsable de la venta de entradas y productos, la limpieza de salas y preparación de alimentos en la dulcería del cine.",
         "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-        "highlights": [
-          "Started the company"
+          "Encargado de área",
+          "Empleado del mes"
         ]
       }
     ],
@@ -77,18 +57,32 @@
         "Awarded 'Volunteer of the Month'"
       ]
     }],
-    "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
+    "education": [
+      {
+        "institution": "Instituto Superior Tecnológico Cibertec",
+        "url": "https://www.cibertec.edu.pe/",
+        "area": "Computación e Informática",
+        "studyType": "Técnico",
+        "startDate": "2021-03-15",
+        "endDate": null,
+        "score": "",
+        "courses": [
+          "En proceso de titulación"
+        ]
+      },
+      {
+        "institution": "Universidad Inca Garcilaso de la Vega",
+        "url": "https://uigv.edu.pe/",
+        "area": "Ingeniería de Sistemas y Cómputo",
+        "studyType": "Universitario",
+        "startDate": "2017-03-15",
+        "endDate": "2019-12-05",
+        "score": "",
+        "courses": [
+          "Inconslusa VI CIclo"
+        ]
+      }
+    ],
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
@@ -131,14 +125,14 @@
         ]
       },
       {
-        "name": "Tailwind",
+        "name": "Java",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
-        "name": "TypeScript",
+        "name": "Spring Framework",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
@@ -173,7 +167,7 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": "Angular",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
@@ -181,6 +175,13 @@
       },
       {
         "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Astro",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
@@ -210,7 +211,7 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Sistema de Ventas",
         "isActive": true,
         "description": "Historia interactiva con retos de programación para viajar a Marte",
         "highlights": [
@@ -220,7 +221,7 @@
         "url": "https://mars.codes"
       },
       {
-        "name": "AdventJS",
+        "name": "Ecommerce",
         "isActive": true,
         "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
         "highlights": [
@@ -231,7 +232,7 @@
         "url": "https://advent.js/dev"
       },
       {
-        "name": "Codember",
+        "name": "App Mobil de Notas",
         "isActive": true,
         "description": "Juego interactivo de programación con retos y secretos",
         "highlights": [

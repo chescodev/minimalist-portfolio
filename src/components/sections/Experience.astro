@@ -25,6 +25,9 @@ import { work } from '@cv'
                             </header>
                             <footer>
                                 <p>{summary}</p>
+                                {highlights.map((highlight) => {
+                                    return <span>{highlight}</span>
+                                })}
                             </footer>
                         </article>
                     </li>
@@ -61,5 +64,15 @@ import { work } from '@cv'
     time {
         color: #555;
         font-size: 0.85rem;
+    }
+
+    footer span {
+        border-radius: 6px;
+        background: #eee;
+        color: #444;
+        font-size: 0.6rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+        margin-right: 2px;
     }
 </style>
