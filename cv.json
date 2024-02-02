@@ -5,7 +5,7 @@
       "image": "/me.webp",
       "email": "franchesco1510@gmail.com",
       "phone": "+51 936899419",
-      "url": "https://midu.dev",
+      "url": "",
       "summary": "Estudiante de Computación e Informática",
       "location": {
         "address": "",
@@ -34,12 +34,12 @@
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
-        "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "name": "Cineplanet",
+        "position": "Asesor de Experiencia",
+        "url": "",
+        "startDate": "2021-10-01",
+        "endDate": "2022-08-31",
+        "summary": "Responsable de la venta de entradas y productos, la limpieza de salas y preparación de alimentos en la dulcería del cine.",
         "highlights": [
           "Started the company"
         ]
